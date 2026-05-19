@@ -58,7 +58,8 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 /generated/prisma
 
 # Docker
-data
+.data
+.pg
 
 # Keys RSA
 *.pem
